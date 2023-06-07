@@ -1,0 +1,30 @@
+/* .non::-webkit-scrollbar {
+    display: none}
+   */
+/* width */
+.non::-webkit-scrollbar {
+  width: 1px;
+  
+}
+
+/* Track */
+.non::-webkit-scrollbar-track {
+    
+  background: none;
+  
+
+}
+
+/* Handle */
+.non::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+.non::-webkit-scrollbar-thumb:hover {
+  background: none;
+}
+
+
+
+
